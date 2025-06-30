@@ -3,14 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Beni%20👋&fontAlign=40&fontColor=ffffff&color=gradient&customColorList=0:0f2027,1:203a43,2:2c5364" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Engineer+%7C+Creative+Technologist+%7C+Backend+Dev+in+Training;Telling+Stories+Through+Tech%2C+Sound+%2B+Design;Growing+Relentlessly+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Engineer+%7C+Creative+Technologist+%7C+Backend+Dev+in+Training;Growing+Relentlessly+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👤 About Me
-
-- 🎓 Final Year **ECE @ AASTU** – Industrial Control Engineering
 - 💻 **Backend Dev @ ALX Africa**
 - 🔬 Interning @ **INSA**, focusing on IoT, AI & Sensor Fusion
 - 🎛 Final Project: **Ball & Beam Control System** (Simulink + LQR/PID)
@@ -33,7 +31,7 @@
 - 📦 APIs + DB Design for web apps
 - 🛰️ Real-time data analysis using sensor streams
 - 🎨 Building my design + dev portfolio
-- 🎧 Creative projects blending sound, visuals & story
+- 🎧 Creative projects & visuals
 
 ---
 
