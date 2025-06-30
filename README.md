@@ -2,18 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Yo!%20I'm%20Beni%20🚀&fontSize=40&color=gradient&fontAlign=60&fontColor=ffffff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&multiline=true&lines=%7C+Tech+%2B+Creative;IoT+%2B+AI+Explorer;Crafting+Stories+Through+Code" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&multiline=true&lines=Tech+%2B+Creative+Hybrid;IoT+%2B+AI+Explorer;Crafting+Stories+Through+Code" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final-year **ECE @ AASTU**, specializing in Industrial Control Engineering  
+- 💻 Frontend Developer + UI/UX Designer
 - 💻 Backend Developer in training @ **ALX Africa**  
-- 🔬 Intern @ **INSA**, working on **IoT + AI sensor-fusion**  
-- 🎛 Final project: **Ball & Beam Control System** using LQR & PID in Simulink  
-- 🎨 I create: sketching, sound & film design, and UI/UX  
-- 🌱 Currently leveling up in **TypeScript**, **Next.js**, **GraphQL**, **System Design**  
+- 🔬 Intern @ **INSA**, exploring **IoT + AI sensor-fusion**  
+- 🎛 Final project: **Ball & Beam System** (LQR/PID in Simulink)  
+- 🎨 I design, sketch, edit film, and build interfaces  
+- 🌱 Currently diving into **TypeScript**, **Next.js**, **System Design**, and **GraphQL**  
 
 ---
 
@@ -25,14 +25,19 @@
 
 ---
 
-## 📌 Pinned Projects
+## 🎨 Creative Work & Experiments
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧠 [IoT‑LM Research](https://github.com/your-iot-repo) | Sensor-fusion & AI for security | Python, ML |
-| ⚙️ [Ball & Beam Control](https://github.com/your-control-repo) | Simulink + LQR/PID modeling | MATLAB |
-| 🌐 [Dev Portfolio](https://github.com/your-portfolio) | Personal website portfolio | Next.js, Tailwind |
-| 🎵 [Sound Story](https://github.com/your-sound-repo) | Foley + ambient music project | Logic Pro |
+🎛 **Dynamic Control Systems**  
+*Built and simulated physical systems like Ball & Beam to visualize theory in motion.*
+
+🧠 **IoT + AI Exploration**  
+*Working on multi-sensor fusion and anomaly detection systems to make devices more intuitive and secure.*
+
+🖌 **Sketching Interfaces & Characters**  
+*Bridging logic and aesthetics — one sketch at a time.*
+
+🌐 **Designing Digital Journeys**  
+*Blending frontend precision with backend architecture to create clean, emotional, and meaningful user experiences.*
 
 ---
 
@@ -55,30 +60,27 @@
 
 ## 🧠 What I’m Learning
 
-- 📚 Advanced Design Patterns & Clean Architecture  
-- ⚙️ REST APIs, Auth & System Designs  
-- 🌐 GraphQL & Edge Computing  
-- 🧬 ML on Sensor Data, Device-level AI  
-- 🎨 Advanced UI/UX animations & storytelling  
+- 📚 Clean Code & Design Patterns  
+- ⚙️ REST APIs, Auth & System Architecture  
+- 🌐 GraphQL & Edge Data Processing  
+- 🧬 Real-time ML for sensor data  
+- 🎨 Smooth UI/UX storytelling  
 
 ---
 
 ## 🎯 2025 Goals
 
 - [x] Graduate with distinction 🎓  
-- [x] Launch my personal portfolio  
 - [ ] Publish IoT/AI research  
-- [ ] Build 2‑3 freelance projects  
-- [ ] Launch a micro‑SaaS  
+- [ ] Release a micro‑SaaS  
 
 ---
 
 ## 💬 Fun Facts
 
-- 🎧 I compose soundscapes & foley  
-- ✏️ I sketch UI mockups in spare time  
-- 🛠 I’m always rebuilding — code/circuits/character  
-- 🌌 I believe tech + soul = impact  
+- ✏️ I sketch UI mockups and characters  
+- 🛠 Fixing systems — both technical and emotional  
+- 🎥 I see life as a series of frames & edits  
 
 ---
 
