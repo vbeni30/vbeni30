@@ -1,87 +1,104 @@
-<!-- README.md -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Beni%20👋&fontAlign=40&fontColor=ffffff&color=gradient&customColorList=0:0f2027,1:203a43,2:2c5364" />
+<!-- ====== HEADER Banner ====== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Yo!%20I'm%20Beni%20🚀&fontSize=40&color=gradient&fontAlign=60&fontColor=ffffff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Engineer+%7C+Creative+Technologist+%7C+Backend+Dev+in+Training;Growing+Relentlessly+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&multiline=true&lines=Engineer+%7C+Tech+%2B+Creative;IoT+%2B+AI+Explorer;Crafting+Stories+Through+Code" alt="Typing SVG"/>
 </p>
 
 ---
 
-### 👤 About Me
-- 💻 **Backend Dev @ ALX Africa**
-- 🔬 Interning @ **INSA**, focusing on IoT, AI & Sensor Fusion
-- 🎛 Final Project: **Ball & Beam Control System** (Simulink + LQR/PID)
-- 🧠 Learning: TypeScript, MongoDB, Next.js, and System Design
-- 🎨 Outside code, I create in sound, sketch, film & UI
+## 👨‍💻 About Me
+- 🎓 Final-year **ECE @ AASTU**, specializing in Industrial Control Engineering  
+- 💻 Backend Developer in training @ **ALX Africa**  
+- 🔬 Intern @ **INSA**, working on **IoT + AI sensor-fusion**  
+- 🎛 Final project: **Ball & Beam Control System** using LQR & PID in Simulink  
+- 🎨 I create: sketching, sound & film design, and UI/UX  
+- 🌱 Currently leveling up in **TypeScript**, **Next.js**, **GraphQL**, **System Design**  
 
 ---
 
-### 🛠️ Tech & Tools
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,mongodb,postgresql,html,css,tailwind,figma,matlab,git,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nextjs,react,nodejs,express,mongodb,postgres,matlab,simulink,figma,tailwind,git&perline=8" />
 </p>
 
 ---
 
-### 🧠 Currently Working On
+## 📌 Pinned Projects
 
-- 🔧 Backend architecture w/ **Node.js, Express, MongoDB**
-- 📦 APIs + DB Design for web apps
-- 🛰️ Real-time data analysis using sensor streams
-- 🎨 Building my design + dev portfolio
-- 🎧 Creative projects & visuals
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vbeni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbeni&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbeni&theme=tokyonight&layout=compact&hide_border=true" height="150"/>
-</div>
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🧠 [IoT‑LM Research](https://github.com/your-iot-repo) | Sensor-fusion & AI for security | Python, ML |
+| ⚙️ [Ball & Beam Control](https://github.com/your-control-repo) | Simulink + LQR/PID modeling | MATLAB |
+| 🌐 [Dev Portfolio](https://github.com/your-portfolio) | Personal website portfolio | Next.js, Tailwind |
+| 🎵 [Sound Story](https://github.com/your-sound-repo) | Foley + ambient music project | Logic Pro |
 
 ---
 
-### 🏆 Trophies & Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vbeni&theme=gruvbox&no-bg=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vbeni&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vbeni&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-### ✨ Fun Facts
-
-- 🌌 I balance tech & creativity — I sketch, edit film, and design
-- ✝️ My values shape my vision: I care about impact more than hype
-- 🎧 I love storytelling through sound — foley, ambient, voice
-- ⚙️ I fix things. Code. Dynamics. Emotions.
-
----
-
-### 📫 Reach Me
+## 🏆 Trophies
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINK/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a>
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank"><img src="https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter"/></a>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-darkred?style=flat&logo=firefox-browser"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=vbeni&theme=gruvbox&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-### 🔥 Quote That Drives Me
+## 🧠 What I’m Learning
 
-> *"Craft isn't just what you build – it's how much soul you pour into it."*
+- 📚 Advanced Design Patterns & Clean Architecture  
+- ⚙️ REST APIs, Auth & System Designs  
+- 🌐 GraphQL & Edge Computing  
+- 🧬 ML on Sensor Data, Device-level AI  
+- 🎨 Advanced UI/UX animations & storytelling  
 
 ---
 
+## 🎯 2025 Goals
+
+- [x] Graduate with distinction 🎓  
+- [x] Launch my personal portfolio  
+- [ ] Publish IoT/AI research  
+- [ ] Build 2‑3 freelance projects  
+- [ ] Launch a micro‑SaaS  
+
+---
+
+## 💬 Fun Facts
+
+- 🎧 I compose soundscapes & foley  
+- ✏️ I sketch UI mockups in spare time  
+- 🛠 I’m always rebuilding — code/circuits/character  
+- 🌌 I believe tech + soul = impact  
+
+---
+
+## 📫 Let's Connect
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vbeni&label=Profile+Visits&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail"/></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-darkred?style=flat-square&logo=firefox-browser"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0:0f2027,1:203a43,2:2c5364" />
+---
 
+## 🔥 Profile Visits
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vbeni&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=0:0f2027,1:203a43,2:2c5364"/>
