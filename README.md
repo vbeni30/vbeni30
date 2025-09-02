@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 - 💻 Frontend Developer + UI/UX Designer
 - 💻 Backend Developer in training @ **ALX Africa**  
-- 🔬 Intern @ **INSA**, exploring **IoT + AI sensor-fusion**  
+- 🔬 Intern @ ** Information Network Security Administration (INSA)**, exploring **IoT + AI sensor-fusion** + Interned as FrontEnd Website Developer ( Designed + Developed **Gotera-Cloud** - Cloud Service System For INSA )
 - 🎛 Final project: **Ball & Beam System** (LQR/PID in Simulink)  
 - 🎨 I design, sketch, edit film, and build interfaces  
 - 🌱 Currently diving into **TypeScript**, **Next.js**, **System Design**, and **GraphQL**  
