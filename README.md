@@ -87,10 +87,10 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://linkedin.com/in/abenezer-demissew-30680529a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
   <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-darkred?style=flat-square&logo=firefox-browser"/></a>
+  <a href="mailto:your.abenidemiss300@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail"/></a>
+  <a href="https://vbeni.vercel.app"><img src="https://img.shields.io/badge/Portfolio-darkred?style=flat-square&logo=firefox-browser"/></a>
 </p>
 
 ---
