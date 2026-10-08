@@ -1,106 +1,57 @@
-<!-- ====== HEADER Banner ====== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Yo!%20I'm%20Beni%20🚀&fontSize=40&color=gradient&fontAlign=60&fontColor=ffffff"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&multiline=true&lines=Tech+%2B+Creative+Hybrid;IoT+%2B+AI+Explorer;Crafting+Stories+Through+Code" alt="Typing SVG"/>
+  <img src="./assets/hero.png" alt="Dithered pixel art: a sphere, a window reading design to code and a cursor" width="100%">
 </p>
 
----
+<div align="center">
 
-## 👨‍💻 About Me
-- 💻 Frontend Developer + UI/UX Designer
-- 💻 Backend Developer in training @ **ALX Africa**  
-- 🔬 Intern @ ** Information Network Security Administration (INSA)**, exploring **IoT + AI sensor-fusion** + Interned as FrontEnd Website Developer ( Designed + Developed **Gotera-Cloud** - Cloud Service System For INSA )
-- 🎛 Final project: **Ball & Beam System** (LQR/PID in Simulink)  
-- 🎨 I design, sketch, edit film, and build interfaces  
-- 🌱 Currently diving into **TypeScript**, **Next.js**, **System Design**, and **GraphQL**  
+# Hi 👋, I'm Ben
 
----
+**Frontend Developer**
 
-## 🚀 Tech Stack
+I design interfaces and build them in code.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nextjs,react,nodejs,express,mongodb,postgres,matlab,simulink,figma,tailwind,git&perline=8" />
-</p>
+</div>
 
----
+<div align="center">
 
-## 🎨 Creative Work & Experiments
+## 🚀 About Me
 
-🎛 **Dynamic Control Systems**  
-*Built and simulated physical systems like Ball & Beam to visualize theory in motion.*
+</div>
 
-🧠 **IoT + AI Exploration**  
-*Working on multi-sensor fusion and anomaly detection systems to make devices more intuitive and secure.*
+<table>
+  <tr>
+    <td valign="middle">
+      <p><b>Ben</b> here, a frontend developer who designs before he codes. I hold a B.Sc. in Electrical and Computer Engineering from AASTU.</p>
+      <p>I am a junior developer at <b>Land and Sea Dev</b>, moving legacy Razor and ASP.NET pages to the <b>Next.js</b> App Router. Earlier I interned at <b>Horan Technologies</b>, building the frontend of a coffee warehouse and supply chain platform, and at <b>INSA</b>, where I built Gotera-Cloud and explored IoT with AI sensor fusion.</p>
+      <p>Right now I am learning <b>system design</b>, <b>GraphQL</b> and <b>design patterns</b>.</p>
+      <p>My goal is simple: ship interfaces that look right and hold up in production.</p>
+    </td>
+    <td width="260" align="center">
+      <img src="./assets/about.png" alt="Dithered pixel art of a ring around a sphere" width="240">
+    </td>
+  </tr>
+</table>
 
-🖌 **Sketching Interfaces & Characters**  
-*Bridging logic and aesthetics — one sketch at a time.*
+<div align="center">
 
-🌐 **Designing Digital Journeys**  
-*Blending frontend precision with backend architecture to create clean, emotional, and meaningful user experiences.*
+## 🤝 Connect
 
----
+<a href="https://vbeni.vercel.app"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/abenezer-demissew-30680529a"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"></a>
+<a href="mailto:abenidemiss300@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"></a>
+<a href="https://github.com/vbeni30"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"></a>
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=figma,ts,js,nextjs,react,tailwind,nodejs,express,postgres,mongodb,py,git,github,vscode,vercel&theme=dark&perline=8" alt="Tech stack">
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vbeni&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vbeni&theme=tokyonight&hide_border=true" height="150" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=vbeni30&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub stats">
+<img src="https://streak-stats.demolab.com?user=vbeni30&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" height="165" alt="GitHub streak">
 
----
+## 📈 Activity Graph
 
-## 🏆 Trophies
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vbeni30&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Contribution graph">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vbeni&theme=gruvbox&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## 🧠 What I’m Learning
-
-- 📚 Clean Code & Design Patterns  
-- ⚙️ REST APIs, Auth & System Architecture  
-- 🌐 GraphQL & Edge Data Processing  
-- 🧬 Real-time ML for sensor data  
-- 🎨 Smooth UI/UX storytelling  
-
----
-
-## 🎯 2025 Goals
-
-- [x] Graduate with distinction 🎓  
-- [ ] Publish IoT/AI research  
-- [ ] Release a micro‑SaaS  
-
----
-
-## 💬 Fun Facts
-
-- ✏️ I sketch UI mockups and characters  
-- 🛠 Fixing systems — both technical and emotional  
-- 🎥 I see life as a series of frames & edits  
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/abenezer-demissew-30680529a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter"/></a>
-  <a href="mailto:your.abenidemiss300@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail"/></a>
-  <a href="https://vbeni.vercel.app"><img src="https://img.shields.io/badge/Portfolio-darkred?style=flat-square&logo=firefox-browser"/></a>
-</p>
-
----
-
-## 🔥 Profile Visits
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vbeni&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=0:0f2027,1:203a43,2:2c5364"/>
+</div>
